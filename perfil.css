@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #7B5A3B;
+    color: #fff;
+}
+
+.all{
+    background-color: #35291d;
+    width: 30%;
+    height: 600px;
+    margin: 200px;
+    margin-left: 680px;
+    border-radius: 50px;
+}
+
+.foto img{
+    max-width:200px;
+    max-height:150px;
+    border-radius: 100px;
+    box-shadow: 7px 7px 7px  #000;
+
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.nome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.local{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+    padding-bottom: 30px;
+    color: chartreuse;
+}
+
+.eu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+
+.git a{
+    text-decoration: none;
+}
+
+.git{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+    width: 570px;
+}
+
+.btn{
+    text-decoration: none;
+    border: solid 1px #584c41;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background-color: #584c41;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+}
+
+.link a{
+    text-decoration: none;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    width: 570px;
+}
+
+.id{
+    text-decoration: none;
+    border: solid 1px #584c41;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background-color: #584c41;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+}
+
+.insta a{
+    text-decoration: none;
+}
+
+.insta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    width: 570px;
+}
+
+.ist{
+    text-decoration: none;
+    border: solid 1px #584c41;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background-color: #584c41;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+}
